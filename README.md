@@ -33,4 +33,6 @@
 
 ## 当前状态
 
-调研公开情报已进 `docs/research/`（证据台账）。**一手核验未做**，痛点仍是假设。先按 `docs/research/how-to-verify.md` 做晚高峰测量、同出口检查、3 个卖家访谈，再拆需求。
+两条目标见 [docs/GOALS.md](docs/GOALS.md)。**现在只追钱潮杯：** 公开窗口为 2026年6–9月报名投递（精确日以[专题页](https://global.lianlianpay.com/activity/AICompetition?invitecode=3B5G01)为准）；内部 9月20日冻结、9月25日前上传。产品演进是第二目标，不挡交稿。
+
+调研公开情报已进 `docs/research/`。一手核验未做。杯赛材料仍先按 `how-to-verify.md` 做 A/B，能访则访 C。
