@@ -4,16 +4,21 @@
 
 中小卖家不是没有网，是同一条不够好的跨境链路上，直播、广告、后台、ERP、多店铺互相踩。现有服务商卖管子（加速器 / SD-WAN / 云 GA / 专线），我们做控制面：按店铺、按场次，把当时最好的那一跳分给最值钱的流量。
 
-## 本仓库现在有什么
+## 什么叫做完
 
-第一批文件只锁范围，不写代码：
+完整项目不是「代码能跑」，而是七段能互相引用。定义见 [docs/PROJECT.md](docs/PROJECT.md)。
 
-| 文件 | 用途 |
-|---|---|
-| [docs/problem.md](docs/problem.md) | 要解决什么、明确不解决什么 |
-| [docs/mvp.md](docs/mvp.md) | 钱潮杯只做的三件事 |
-| [docs/qianchao-cup.md](docs/qianchao-cup.md) | 赛道、一句话、评委可能追问 |
-| [AGENTS.md](AGENTS.md) | 后续写代码时必须守住的边界 |
+| 模块 | 目录 | 钱潮杯最低完成 |
+|---|---|---|
+| 市场调研 | [docs/research/](docs/research/) | 客群、竞品分层、痛点三分、证据台账 |
+| 需求分析 | [docs/requirements/](docs/requirements/) | 带编号的可验收条目 |
+| 方案设计 | [docs/design/](docs/design/) | 一页架构 + 调度策略 |
+| 代码实现 | `src/` `cmd/` `web/` | 演示脚本三步能走通 |
+| 测试报告 | [docs/test/](docs/test/) + `tests/` | 对照实验，引用需求编号 |
+| 部署上线 | [docs/deploy/](docs/deploy/) + `deploy/` | 单机可复现，不是公网 SaaS |
+| 比赛交付 | [docs/competition/](docs/competition/) | 一页纸 + 三问 |
+
+范围锁： [docs/problem.md](docs/problem.md) · [docs/mvp.md](docs/mvp.md) · [docs/qianchao-cup.md](docs/qianchao-cup.md) · [AGENTS.md](AGENTS.md)
 
 ## 一句话
 
@@ -28,4 +33,4 @@
 
 ## 当前状态
 
-私有仓库，空实现。下一步是 MVP 三件事的最小可演示：店铺隔离、直播优先、业务可见。
+私有仓库。范围与模块骨架已立，调研正文、编号需求、设计、代码均未写。下一步按 `docs/PROJECT.md` 第 6 节：先沉淀调研，再拆需求，不要先搭框架。
