@@ -33,6 +33,6 @@
 
 ## 当前状态
 
-两条目标见 [docs/GOALS.md](docs/GOALS.md)。**现在只追钱潮杯：** 公开窗口为 2026年6–9月报名投递（精确日以[专题页](https://global.lianlianpay.com/activity/AICompetition?invitecode=3B5G01)为准）；内部 9月20日冻结、9月25日前上传。产品演进是第二目标，不挡交稿。
+两条目标见 [docs/GOALS.md](docs/GOALS.md)。**现在只追报名表：2026-09-16 截止，提交后不可改。** 填写稿 [docs/competition/registration.md](docs/competition/registration.md)。正赛 BP/DEMO 后补。产品演进是第二目标。
 
 调研公开情报已进 `docs/research/`。一手核验未做。杯赛材料仍先按 `how-to-verify.md` 做 A/B，能访则访 C。

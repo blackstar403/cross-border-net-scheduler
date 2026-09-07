@@ -6,8 +6,8 @@
 
 时间、要交的表单、与产品演进的拆分：见 [GOALS.md](GOALS.md)。提交稿按栏目填：[competition/submission.md](competition/submission.md)。
 
-**公开赛程（精确到日未在静态页确认，以专题页为准）：** 报名+材料 2026年6月–9月（进行中）；名单 9月底；决赛 10月杭州。  
-**内部：** 9月20日材料冻结，9月25日前上传。入口：https://global.lianlianpay.com/activity/AICompetition?invitecode=3B5G01
+**报名表截止 2026-09-16，提交后不可修改**（选手截图确认）。正赛 BP/DEMO 后补。入口：https://global.lianlianpay.com/activity/AICompetition?invitecode=3B5G01  
+填写稿：[competition/registration.md](competition/registration.md)
 
 ## 一句话
 
