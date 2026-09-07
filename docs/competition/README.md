@@ -9,4 +9,4 @@
 | [../qianchao-cup.md](../qianchao-cup.md) | 一句话、三问、禁句 |
 | [submission.md](submission.md) | 正赛 BP 栏目，报名后写 |
 
-**完成时额外需要：** 一页方案图、与 mvp 相同的演示脚本。专题页截止日确认后写回 GOALS.md。
+下拉选项已从官网 JS 写入 [registration.md](registration.md)。公开活动规则来自 `GET /cb-cms-api/activityconfig/query?code=AICompetition`。带 `ssotoken` 的个人报名状态接口需要有效登录，过期则看不到已填表。
