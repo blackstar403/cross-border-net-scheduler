@@ -33,6 +33,6 @@
 
 ## 当前状态
 
-两条目标见 [docs/GOALS.md](docs/GOALS.md)。**现在只追报名表：2026-09-16 截止，提交后不可改。** 填写稿 [docs/competition/registration.md](docs/competition/registration.md)。正赛 BP/DEMO 后补。产品演进是第二目标。
+两条目标见 [docs/GOALS.md](docs/GOALS.md)。报名表官方截止 **2026-09-16**，提交后不可改。**计划 9 月 14 日核对后再交。** 官方快照 [docs/competition/official.md](docs/competition/official.md)，填写稿 [docs/competition/registration.md](docs/competition/registration.md)。正赛 BP/DEMO 过审后再传。
 
 调研公开情报已进 `docs/research/`。一手核验未做。杯赛材料仍先按 `how-to-verify.md` 做 A/B，能访则访 C。

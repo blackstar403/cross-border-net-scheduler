@@ -36,9 +36,10 @@
 ## 比赛约束
 
 - 当前只打钱潮杯（跨境经营类）。德邻杯 BP 不做。
-- **目标 1（杯赛）优先于目标 2（产品演进）。** 2026-09-16 前只保证报名表一次填对（`docs/competition/registration.md`），不为多租户/线路采购插队。见 `docs/GOALS.md`。
+- **目标 1（杯赛）优先于目标 2（产品演进）。** 报名表 2026-09-16 截止、提交后不可改；**2026-09-14 核对后再交**（`docs/competition/official.md`、`docs/competition/registration.md`）。不为多租户/线路采购插队。见 `docs/GOALS.md`。
 - 材料要能给普通创业者评委讲懂：作业成功率，不是 BGP。
 - 仓库保持 private，除非用户明确要求改 public。
+- **git commit 说明用中文**（标题一行说清做了什么，必要时正文补原因）。不要用英文 commit message。
 
 ## 实现偏好
 
