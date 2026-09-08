@@ -2,7 +2,7 @@
 
 赛道：跨境经营类。产品定位：电商出海网络的运维与智能调度。阶段按实际填写，不做德邻杯 BP。
 
-报名及材料均在 **2026-09-16 北京时间 24:00** 截止，材料需先通过报名审核。用户保留 9/14 核对后报名，先确认审核时效。规则见 [official.md](competition/official.md)，填写稿见 [registration.md](competition/registration.md)。
+报名及材料均在 **2026-09-16 北京时间 24:00** 截止，材料需先通过报名审核。用户最新调整为 9/11 核对后报名，先确认审核时效。规则见 [official.md](competition/official.md)，填写稿见 [registration.md](competition/registration.md)。
 
 ## 一句话
 
