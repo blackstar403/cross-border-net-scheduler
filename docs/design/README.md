@@ -12,4 +12,12 @@
 | `data.md` | 店铺/出口/探测/场次；无真实密钥 |
 | `risks.md` | 物理上限、误限速、代理失效、合规 |
 
-状态：索引已建，正文未写。实现前至少要有 architecture + scheduling。
+当前设计基线：
+
+- [architecture.md](architecture.md)：`SCN-01` 的组件、数据流和状态边界。
+- [scheduling.md](scheduling.md)：保持出口的动作资格、确认、回退与转交策略。
+- [ai.md](ai.md)：自然语言解析和证据分类的受限位置。
+- [data.md](data.md)：最小数据模型和脱敏规则。
+- [risks.md](risks.md)：能力、误判和比赛交付风险。
+
+状态：设计基线 V1 已形成。动作族已定义，但尚未在某一适配器实测；代码实现前必须先完成适配器能力探测与 `ACT-01`/`ACT-02` 测试。

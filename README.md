@@ -33,7 +33,7 @@
 
 ## 当前状态
 
-正式市场调研报告：[docs/research/REPORT.md](docs/research/REPORT.md)。已形成 V1.0 公开研究结论与首版候选建议，待需求评审锁定具体场景。
+正式市场调研报告：[docs/research/REPORT.md](docs/research/REPORT.md)。首版已锁定为“后台页面异常，先不切换店铺出口”，需求见 [docs/requirements/](docs/requirements/README.md)，设计见 [docs/design/](docs/design/README.md)。当前已有模拟状态机和测试，真实适配器及业务恢复仍未验证。
 
 **9/8 官方复核：报名和材料均在 9/16 北京时间 24:00 截止。** 用户最新确认调整为 9/11 报名，先核实审核时效。第一天成果与待办见 [核查报告](docs/progress/2026-09-08.md)。
 
